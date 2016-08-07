@@ -1,6 +1,6 @@
-# sample
+# Sample REST Service
 
-FIXME
+A simple Clojure REST service sample.
 
 ## Prerequisites
 
@@ -10,10 +10,10 @@ You will need [Leiningen][] 2.0.0 or above installed.
 
 ## Running
 
-To start a web server for the application, run:
+To start the service run:
 
     lein run
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Andrei Ursan
